@@ -1,1 +1,2 @@
-# photon-unity-networking-example
+# A Simple Guide to the Photon Unity Networking
+by Luke Day
